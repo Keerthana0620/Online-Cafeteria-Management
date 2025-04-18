@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+• Created a website to manage around 10+ process such as RBAC, cart and session management for an Online Cafeteria. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+• Leveraged a range of tech stack including Ruby on Rails, PostgreSQL, HTML, and CSS to create a robust and user
+friendly website, and deployed the website on Heroku, ensuring accessibility and scalability.
